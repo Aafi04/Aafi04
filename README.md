@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for **team for hackathons/ideathons.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aafi04](https://github.com/Aafi04)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Aafi04?tab=repositories)
 
 - 💬 Ask me about **Visualizations, PowerBI, Analysis, Problem solving**
 
