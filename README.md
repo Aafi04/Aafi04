@@ -1,4 +1,8 @@
-[![MasterHead](https://github.com/Aafi04/Projects/blob/main/0.jpg)](https://rishavchanda.io)
+<div align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://github.com/Aafi04/Work/blob/main/standard%20(1).gif" alt="MasterHead">
+  </a>
+</div>
 <h1 align="center">✨Welcome to Mohd. Aafi's Github Profile!✨</h1>
 <h3 align="center">|| Aspiring Data Analyst/Scientist, crunching numbers and providing insights. ||</h3>
 
