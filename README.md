@@ -4,7 +4,7 @@
   </a>
 </div>
 <h1 align="center">✨Welcome to Mohd. Aafi's Github Profile!✨</h1>
-<h3 align="center">|| Aspiring Data Analyst/Scientist, crunching numbers and providing insights. ||</h3>
+<h3 align="center">|| Aspiring Data Analyst, crunching numbers and providing insights. ||</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Aafi04/Projects/blob/main/Amazon%20Sales%20Report.jpg">
