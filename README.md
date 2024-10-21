@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://rishavchanda.io">
+  <a">
     <img src="https://github.com/Aafi04/Work/blob/main/standard%20(1).gif" alt="MasterHead">
   </a>
 </div>
