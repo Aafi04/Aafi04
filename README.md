@@ -3,7 +3,7 @@
     <img src="https://github.com/Aafi04/Work/blob/main/standard%20(1).gif" alt="MasterHead">
   </a>
 </div>
-<h1 align="center">✨Welcome to Mohd. Aafi's Github Profile!✨</h1>
+<h1 align="center">✨Welcome to my Github Profile!✨</h1>
 <h3 align="center">|| Aspiring Data Analyst, crunching numbers and providing insights. ||</h3>
 
 
