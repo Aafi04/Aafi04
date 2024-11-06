@@ -30,5 +30,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aafi04&show_icons=true&locale=en" alt="aafi04" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aafi04&show_icons=true&locale=en&layout=compact" alt="aafi04" /></p>
