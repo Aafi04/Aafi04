@@ -4,7 +4,7 @@
   </a>
 </div>
 <h1 align="center">✨Welcome to my Github Profile!✨</h1>
-<h3 align="center">|| Aspiring Data Analyst, crunching numbers and providing insights. ||</h3>
+<h3 align="center">|| Aspiring Data Scientist, crunching numbers and providing insights. ||</h3>
 
 
 - 🔭 I’m currently working on **Data Analysis and PowerBI Dashboards**
