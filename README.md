@@ -7,13 +7,12 @@
 <h3 align="center">|| Aspiring Data Scientist, crunching numbers and providing insights. ||</h3>
 
 
-- 🔭 I’m currently working on **Data Analysis and PowerBI Dashboards**
 
 - 🌱 I’m currently learning **Java | DSA | MySQL**
 
-- 👯 I’m looking to collaborate on **Development/Data Analysis projects.**
+- 👯 I’m looking to collaborate on **Development/Open Source projects.**
 
-- 🤝 I’m looking for **team for hackathons/ideathons.**
+- 🤝 I’m looking for **dedicated team for hackathons/ideathons.**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Aafi04?tab=repositories)
 
