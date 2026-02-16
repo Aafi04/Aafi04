@@ -1,33 +1,63 @@
 <div align="center">
-  <a">
-    <img src="https://github.com/Aafi04/Work/blob/main/standard%20(1).gif" alt="MasterHead">
-  </a>
+  <img src="https://github.com/Aafi04/Work/blob/main/standard%20(1).gif" alt="MasterHead" />
 </div>
-<h1 align="center">✨Welcome to my Github Profile!✨</h1>
-<h3 align="center">|| Aspiring Data Scientist, crunching numbers and providing insights. ||</h3>
 
+<h1 align="center">✨ Welcome to my GitHub Profile ✨</h1>
 
+<h3 align="center">
+Aspiring Data Scientist & Full-Stack Developer<br/>
+Turning data into insights and ideas into scalable applications
+</h3>
 
-- 🌱 I’m currently learning **Java | DSA | MySQL**
+---
 
-- 👯 I’m looking to collaborate on **Development/Open Source projects.**
+### 🚀 About Me
 
-- 🤝 I’m looking for **dedicated team for hackathons/ideathons.**
+- 🌱 Currently learning **Java | DSA | MySQL | Full-Stack Development**
+- 👯 Open to collaborating on **Open Source & Development projects**
+- 🤝 Looking for **dedicated teams for hackathons & ideathons**
+- 👨‍💻 Explore all my work here → [My Repositories](https://github.com/Aafi04?tab=repositories)
+- 💬 Ask me about **Data Analysis, Power BI, Visualization, Problem Solving**
 
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Aafi04?tab=repositories)
+---
 
-- 💬 Ask me about **Visualizations, PowerBI, Analysis, Problem solving**
+### 🔗 Connect with Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohd-aafi-data-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-aafi-data-analyst" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mohd-aafi/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🛠️ Languages & Tools
 
+#### Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aafi04&show_icons=true&locale=en" alt="aafi04" /></p>
+#### Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aafi04&show_icons=true&locale=en&layout=compact" alt="aafi04" /></p>
+#### Backend & Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+I'm always trying to learn, build and improve.
