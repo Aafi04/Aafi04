@@ -33,7 +33,7 @@ Currently exploring: **LangGraph state machines · Multi-tenant SaaS architectur
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 SchemaDoc AI</h3>
+      <h3><a href="https://github.com/Aafi04/SchemaDoc-AI-Hackfest-2.0-ft.-Turgon-AI">🤖 SchemaDoc AI</a></h3>
       <p><em>Hackfest 2.0 ft. Turgon AI — Team Lead</em></p>
       <p>AI-powered data dictionary agent that connects to any SQL database and auto-generates enriched schema documentation with quality scoring and ER visualization.</p>
       <ul>
@@ -51,7 +51,7 @@ Currently exploring: **LangGraph state machines · Multi-tenant SaaS architectur
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌬️ AeroGuard</h3>
+      <h3><a href="https://github.com/Aafi04/TechSprint-Hackathon-2026-AeroGuard">🌬️ AeroGuard</a></h3>
       <p><em>🏆 Winner — TechSprint Hackathon 2026</em></p>
       <p>Intelligent routing app that prioritizes clean air over distance — real-time AQI tracking with contextual health alerts tailored for sensitive user groups.</p>
       <ul>
@@ -69,7 +69,7 @@ Currently exploring: **LangGraph state machines · Multi-tenant SaaS architectur
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 End-to-End ERP System</h3>
+      <h3><a href="https://github.com/Aafi04/End-to-End-ERP-System">🏢 End-to-End ERP System</a></h3>
       <p><em>Dec 2025 – Feb 2026</em></p>
       <p>Full-scale multi-tenant ERP with complete data isolation, RBAC across 4 role tiers, and modules covering academics, attendance, grading, and payments.</p>
       <ul>
@@ -86,7 +86,7 @@ Currently exploring: **LangGraph state machines · Multi-tenant SaaS architectur
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Amazon Sales Dashboard</h3>
+      <h3><a href="https://drive.google.com/drive/folders/1OsaTR6jWer-1oCRz-m8B45r0jITQf0qT">📊 Amazon Sales Dashboard</a></h3>
       <p><em>Power BI · Nov – Dec 2024</em></p>
       <p>Interactive dashboard analyzing 27K+ transactions to surface $2.18M in YTD revenue trends, with dynamic filtering by category and quarter.</p>
       <ul>
