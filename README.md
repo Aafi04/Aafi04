@@ -14,17 +14,18 @@
     <img src="https://img.shields.io/badge/Email-mdaafi04@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-302b63?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Aafi04&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🧠 Who Am I
 
-I'm a Computer Science undergrad (Data Science) at **Galgotias University**, with a fixation on building software that doesn't just work — it *thinks*, *scales*, and *tells a story through data*.
+3rd year CSE (Data Science) undergrad at **Galgotias University**. I build production-hardened AI pipelines, full-stack systems, and agentic tooling — and I've shipped all of it before graduating.
 
-My work sits at the intersection of **Agentic AI**, **backend architecture**, and **data visualization**. I've shipped production-hardened AI pipelines, won hackathons, and built ERP systems from scratch — all while being a 3rd year student.
+My work lives at the intersection of **Agentic AI**, **backend architecture**, and **data engineering**. I've won hackathons, built ERP systems from scratch, and shipped a multi-agent code improvement tool that opens real GitHub PRs.
 
-Currently exploring: **LangGraph state machines · Multi-tenant SaaS architecture · AI-powered data tooling**
+Currently exploring: **LangGraph state machines · Multi-tenant SaaS architecture · AI-powered developer tooling**
 
 ---
 
@@ -86,18 +87,21 @@ Currently exploring: **LangGraph state machines · Multi-tenant SaaS architectur
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://drive.google.com/drive/folders/1OsaTR6jWer-1oCRz-m8B45r0jITQf0qT">📊 Amazon Sales Dashboard</a></h3>
-      <p><em>Power BI · Nov – Dec 2024</em></p>
-      <p>Interactive dashboard analyzing 27K+ transactions to surface $2.18M in YTD revenue trends, with dynamic filtering by category and quarter.</p>
+      <h3><a href="https://github.com/Aafi04/reposition">🤖 Reposition</a></h3>
+      <p><em>Autonomous code improvement agent · Mar 2026</em></p>
+      <p>Point it at any repo. Walk away. Come back to a pull request — with security fixes, refactors, and test gaps already patched and validated.</p>
       <ul>
-        <li>Identified a <strong>90% sales growth surge</strong> driven by festive season patterns</li>
-        <li>Advanced DAX measures for time-intelligence calculations</li>
-        <li>Dynamic slicers for category, region, and quarter-level drill-down</li>
+        <li><strong>8-agent LangGraph pipeline</strong> — Scanner → Analyzers (parallel) → Planner → Coder → Validator → PR Agent</li>
+        <li>Every patch validated inside an <strong>E2B cloud sandbox</strong> against the real test suite before touching the repo</li>
+        <li>Self-healing retry loop — skips after 3 failed attempts, never ships broken code</li>
+        <li>Provider-agnostic: works with Gemini, OpenAI, Anthropic, or Groq</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square" />
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square" />
+        <img src="https://img.shields.io/badge/E2B_Sandbox-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyGithub-181717?style=flat-square&logo=github&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -132,11 +136,18 @@ Currently exploring: **LangGraph state machines · Multi-tenant SaaS architectur
 ## 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aafi04&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aafi04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aafi04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aafi04&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aafi04&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
