@@ -34,6 +34,24 @@ Currently exploring: **LangGraph state machines · Multi-tenant SaaS architectur
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Aafi04/reposition">🤖 Reposition</a></h3>
+      <p><em>Autonomous code improvement agent · Mar 2026</em></p>
+      <p>Point it at any repo. Walk away. Come back to a pull request — with security fixes, refactors, and test gaps already patched and validated.</p>
+      <ul>
+        <li><strong>8-agent LangGraph pipeline</strong> — Scanner → Analyzers (parallel) → Planner → Coder → Validator → PR Agent</li>
+        <li>Every patch validated inside an <strong>E2B cloud sandbox</strong> against the real test suite before touching the repo</li>
+        <li>Self-healing retry loop — skips after 3 failed attempts, never ships broken code</li>
+        <li>Provider-agnostic: works with Gemini, OpenAI, Anthropic, or Groq</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square" />
+        <img src="https://img.shields.io/badge/E2B_Sandbox-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyGithub-181717?style=flat-square&logo=github&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Aafi04/SchemaDoc-AI-Hackfest-2.0-ft.-Turgon-AI">🤖 SchemaDoc AI</a></h3>
       <p><em>Hackfest 2.0 ft. Turgon AI — Team Lead</em></p>
       <p>AI-powered data dictionary agent that connects to any SQL database and auto-generates enriched schema documentation with quality scoring and ER visualization.</p>
@@ -51,6 +69,8 @@ Currently exploring: **LangGraph state machines · Multi-tenant SaaS architectur
         <img src="https://img.shields.io/badge/Neon_PostgreSQL-00E5BF?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Aafi04/TechSprint-Hackathon-2026-AeroGuard">🌬️ AeroGuard</a></h3>
       <p><em>🏆 Winner — TechSprint Hackathon 2026</em></p>
@@ -67,8 +87,6 @@ Currently exploring: **LangGraph state machines · Multi-tenant SaaS architectur
         <img src="https://img.shields.io/badge/Maps_API-34A853?style=flat-square&logo=googlemaps&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Aafi04/End-to-End-ERP-System">🏢 End-to-End ERP System</a></h3>
       <p><em>Dec 2025 – Feb 2026</em></p>
@@ -84,24 +102,6 @@ Currently exploring: **LangGraph state machines · Multi-tenant SaaS architectur
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
         <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Aafi04/reposition">🤖 Reposition</a></h3>
-      <p><em>Autonomous code improvement agent · Mar 2026</em></p>
-      <p>Point it at any repo. Walk away. Come back to a pull request — with security fixes, refactors, and test gaps already patched and validated.</p>
-      <ul>
-        <li><strong>8-agent LangGraph pipeline</strong> — Scanner → Analyzers (parallel) → Planner → Coder → Validator → PR Agent</li>
-        <li>Every patch validated inside an <strong>E2B cloud sandbox</strong> against the real test suite before touching the repo</li>
-        <li>Self-healing retry loop — skips after 3 failed attempts, never ships broken code</li>
-        <li>Provider-agnostic: works with Gemini, OpenAI, Anthropic, or Groq</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square" />
-        <img src="https://img.shields.io/badge/E2B_Sandbox-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyGithub-181717?style=flat-square&logo=github&logoColor=white" />
       </p>
     </td>
   </tr>
