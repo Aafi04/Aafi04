@@ -21,7 +21,7 @@
 
 ## 🧠 Who Am I
 
-3rd year CSE (Data Science) undergrad at **Galgotias University**. I build production-hardened AI pipelines, full-stack systems, and agentic tooling — and I've shipped all of it before graduating.
+Final year CSE (Data Science) undergrad at **Galgotias University**. I build production-hardened AI pipelines, full-stack systems, and agentic tooling — and I've shipped all of it before graduating.
 
 My work lives at the intersection of **Agentic AI**, **backend architecture**, and **data engineering**. I've won hackathons, built ERP systems from scratch, and shipped a multi-agent code improvement tool that opens real GitHub PRs.
 
