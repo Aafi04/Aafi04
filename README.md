@@ -6,10 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Agentic+AI+Pipelines+%7C+Autonomous+Code+Tooling;LangGraph+State+Machines+%2B+Sandbox+Isolation;Scalable+Multi-Tenant+Backends+%2B+Data+Systems;Class+of+2027+%7C+Open+to+Engineering+Roles" alt="Terminal Header" />
 </a>
 
+
 <p>
   <img src="https://img.shields.io/badge/Specialization-Agentic_AI_%26_Distributed_Backends-6366F1?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-10B981?style=flat-square" />
+  <a href="mailto:mdaafi04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mdaafi04%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 </div>
 
