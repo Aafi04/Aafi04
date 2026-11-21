@@ -25,7 +25,7 @@
 Software engineer specializing in **Agentic AI systems**, **state-machine orchestration**, and **fault-tolerant backend architecture**. Focused on turning non-deterministic language models into verifiable, production-grade automated workflows with sandbox isolation and deterministic validation loops.
 
 - **Core Domains:** Multi-Agent State Systems, Autonomous Code Generation, Multi-Tenant SaaS
-- **Academic Background:** B.Tech in Computer Science & Engineering (Data Science), Class of 2026
+- **Academic Background:** B.Tech in Computer Science & Engineering (Data Science), Class of 2027
 
 ---
 
